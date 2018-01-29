@@ -4,8 +4,6 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### Install
-
 Python libraries Used:
 
 - [NumPy](http://www.numpy.org/)
